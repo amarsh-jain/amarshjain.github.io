@@ -9,26 +9,6 @@ const MAX_DISPLAY = 5
 export default function Home({ posts }) {
   return (
     <>
-
-<div className="my-6 flex flex-col items-center gap-x-12 xl:mb-12 xl:flex-row">
-        <div className="mr-8 pt-6">
-          <h1 className="pb-6 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            hey, i'm amar$h.
-          </h1>
-          <h2 className="prose text-lg text-gray-600 dark:text-gray-400">
-          {/* Hey, I'm Amarsh. I'm learning AI & ML. And I'm going to document and build everything in public.  */}
-
-After this recent fiasco of AI and ChatGPT, I thought I should learn about it a little bit more in details. So that I can build my own AI supervillain, to rule this world.(pun intended...or not, you'll see)
-
-So....Ummm....Stay Tuned!!!
-          </h2>
-        </div>
-        <div className="mx-2 my-12 flex w-[300px] items-center justify-center sm:w-[400px] md:w-[550px]">
-          <NewsletterForm title="Stay updated, receive the latest post straight to your mailbox" />
-        </div>
-      </div>
-
-
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
