@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Building AI Supervillains',
   author: 'amar$h',
   headerTitle: 'amar$h',
-  description: 'Hey, I\'m learning AI & ML. And I\'m going to document and build everything in public. So....Ummm....Stay Tuned!!!',
+  description: 'I\'m going to build some stuff. And I\'m going to document and build everything in public. So....Ummm....Stay Tuned!!!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://amarshjain.com',
